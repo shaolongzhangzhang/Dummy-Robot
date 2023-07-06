@@ -25,7 +25,7 @@ void Main()
     switch (serialNum)
     {
         case 431466563640: //J1
-            defaultNodeID = 1;
+            defaultNodeID = 1
             break;
         case 384624576568: //J2
             defaultNodeID = 2;
